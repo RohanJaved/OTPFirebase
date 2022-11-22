@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422559358317",
+    "project_id": "otpautofetch",
+    "storage_bucket": "otpautofetch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422559358317:android:cde97211463a1967048e64",
+        "android_client_info": {
+          "package_name": "com.example.otpfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422559358317-rol4ptuc4oadqfs0rgopj2r07o48m8mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-HSCzptMOtPvwB6j9uC3-KAlQidqkVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422559358317-rol4ptuc4oadqfs0rgopj2r07o48m8mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
